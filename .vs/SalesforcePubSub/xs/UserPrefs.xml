@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{303A9A27-4A3F-4059-9B7A-B0BA0D5E3D70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SalesforcePubSub/Worker.cs">
+    <Files>
+      <File FileName="SalesforcePubSub/AuthResponse.cs" Line="26" Column="1" />
+      <File FileName="SalesforcePubSub/SalesforceHttpClient.cs" Line="30" Column="51" />
+      <File FileName="SalesforcePubSub/SalesforcePubSubClient.cs" Line="45" Column="27" />
+      <File FileName="SalesforcePubSub/SalesforcePubSub.csproj" Line="24" Column="30" />
+      <File FileName="SalesforcePubSub/Worker.cs" Line="43" Column="1" />
+      <File FileName="SalesforcePubSub/Program.cs" Line="10" Column="1" />
+      <File FileName="SalesforcePubSub/obj/Debug/net6.0/Protos/PubsubApiGrpc.cs" Line="141" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SalesforcePubSub" expanded="True">
+            <Node name="SalesforcePubSub" expanded="True">
+              <Node name="Worker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Projects/SalesforcePubSub/SalesforcePubSub/Worker.cs" relfile="SalesforcePubSub/Worker.cs" line="43" column="1" />
+      <Breakpoint file="/Users/admin/Projects/SalesforcePubSub/SalesforcePubSub/Worker.cs" relfile="SalesforcePubSub/Worker.cs" line="16" column="1" />
+      <Breakpoint file="/Users/admin/Projects/SalesforcePubSub/SalesforcePubSub/Worker.cs" relfile="SalesforcePubSub/Worker.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SalesforcePubSub PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
